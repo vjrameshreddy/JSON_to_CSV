@@ -1,0 +1,652 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "age": 28,
+      "isActive": true,
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zipCode": "12345"
+      },
+      "registeredDate": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "age": 35,
+      "isActive": false,
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Otherville",
+        "zipCode": "67890"
+      },
+      "registeredDate": "2022-05-20"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "age": 22,
+      "isActive": true,
+      "address": {
+        "street": "789 Pine Ln",
+        "city": "Anytown",
+        "zipCode": "12345"
+      },
+      "registeredDate": "2024-03-10"
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "email": "diana.prince@example.com",
+      "age": 40,
+      "isActive": true,
+      "address": {
+        "street": "101 Justice Way",
+        "city": "Metropolis",
+        "zipCode": "54321"
+      },
+      "registeredDate": "2021-11-01"
+    },
+    {
+      "id": 5,
+      "name": "Eve Adams",
+      "email": "eve.adams@example.com",
+      "age": 30,
+      "isActive": false,
+      "address": {
+        "street": "202 Utopia Rd",
+        "city": "Gotham",
+        "zipCode": "98765"
+      },
+      "registeredDate": "2023-07-25"
+    },
+    {
+      "id": 6,
+      "name": "Frank White",
+      "email": "frank.white@example.com",
+      "age": 50,
+      "isActive": true,
+      "address": {
+        "street": "303 Bridge St",
+        "city": "Star City",
+        "zipCode": "11223"
+      },
+      "registeredDate": "2020-09-12"
+    },
+    {
+      "id": 7,
+      "name": "Grace Hall",
+      "email": "grace.hall@example.com",
+      "age": 25,
+      "isActive": true,
+      "address": {
+        "street": "404 River Dr",
+        "city": "Central City",
+        "zipCode": "44556"
+      },
+      "registeredDate": "2024-01-05"
+    },
+    {
+      "id": 8,
+      "name": "Henry Green",
+      "email": "henry.green@example.com",
+      "age": 33,
+      "isActive": false,
+      "address": {
+        "street": "505 Lakeview Blvd",
+        "city": "Coast City",
+        "zipCode": "77889"
+      },
+      "registeredDate": "2022-03-30"
+    },
+    {
+      "id": 9,
+      "name": "Ivy King",
+      "email": "ivy.king@example.com",
+      "age": 45,
+      "isActive": true,
+      "address": {
+        "street": "606 Mountain Way",
+        "city": "Smallville",
+        "zipCode": "33445"
+      },
+      "registeredDate": "2021-06-18"
+    },
+    {
+      "id": 10,
+      "name": "Jack Lee",
+      "email": "jack.lee@example.com",
+      "age": 31,
+      "isActive": true,
+      "address": {
+        "street": "707 Oceanfront",
+        "city": "Atlantis",
+        "zipCode": "66778"
+      },
+      "registeredDate": "2023-04-01"
+    },
+    {
+      "id": 11,
+      "name": "Karen Miller",
+      "email": "karen.miller@example.com",
+      "age": 29,
+      "isActive": false,
+      "address": {
+        "street": "808 Forest Ave",
+        "city": "Anytown",
+        "zipCode": "12345"
+      },
+      "registeredDate": "2022-08-10"
+    },
+    {
+      "id": 12,
+      "name": "Liam Scott",
+      "email": "liam.scott@example.com",
+      "age": 38,
+      "isActive": true,
+      "address": {
+        "street": "909 Meadow Ln",
+        "city": "Otherville",
+        "zipCode": "67890"
+      },
+      "registeredDate": "2021-02-28"
+    },
+    {
+      "id": 13,
+      "name": "Mia Taylor",
+      "email": "mia.taylor@example.com",
+      "age": 26,
+      "isActive": true,
+      "address": {
+        "street": "1010 Sunset Blvd",
+        "city": "Anytown",
+        "zipCode": "12345"
+      },
+      "registeredDate": "2024-02-14"
+    },
+    {
+      "id": 14,
+      "name": "Noah Wilson",
+      "email": "noah.wilson@example.com",
+      "age": 42,
+      "isActive": true,
+      "address": {
+        "street": "1111 Skyline Dr",
+        "city": "Metropolis",
+        "zipCode": "54321"
+      },
+      "registeredDate": "2020-10-05"
+    },
+    {
+      "id": 15,
+      "name": "Olivia Moore",
+      "email": "olivia.moore@example.com",
+      "age": 34,
+      "isActive": false,
+      "address": {
+        "street": "1212 Horizon Rd",
+        "city": "Gotham",
+        "zipCode": "98765"
+      },
+      "registeredDate": "2023-09-01"
+    },
+    {
+      "id": 16,
+      "name": "Peter Clark",
+      "email": "peter.clark@example.com",
+      "age": 49,
+      "isActive": true,
+      "address": {
+        "street": "1313 Summit St",
+        "city": "Star City",
+        "zipCode": "11223"
+      },
+      "registeredDate": "2019-11-20"
+    },
+    {
+      "id": 17,
+      "name": "Quinn Lewis",
+      "email": "quinn.lewis@example.com",
+      "age": 27,
+      "isActive": true,
+      "address": {
+        "street": "1414 Valley Dr",
+        "city": "Central City",
+        "zipCode": "44556"
+      },
+      "registeredDate": "2024-04-22"
+    },
+    {
+      "id": 18,
+      "name": "Rachel Baker",
+      "email": "rachel.baker@example.com",
+      "age": 36,
+      "isActive": false,
+      "address": {
+        "street": "1515 Hillside Blvd",
+        "city": "Coast City",
+        "zipCode": "77889"
+      },
+      "registeredDate": "2022-01-17"
+    },
+    {
+      "id": 19,
+      "name": "Sam Young",
+      "email": "sam.young@example.com",
+      "age": 43,
+      "isActive": true,
+      "address": {
+        "street": "1616 Ridge Way",
+        "city": "Smallville",
+        "zipCode": "33445"
+      },
+      "registeredDate": "2021-04-08"
+    },
+    {
+      "id": 20,
+      "name": "Tina Hall",
+      "email": "tina.hall@example.com",
+      "age": 32,
+      "isActive": true,
+      "address": {
+        "street": "1717 Marina Dr",
+        "city": "Atlantis",
+        "zipCode": "66778"
+      },
+      "registeredDate": "2023-06-15"
+    },
+    {
+      "id": 21,
+      "name": "Uma Sharma",
+      "email": "uma.sharma@example.com",
+      "age": 29,
+      "isActive": true,
+      "address": {
+        "street": "1818 Palm Ave",
+        "city": "Mumbai",
+        "zipCode": "400001"
+      },
+      "registeredDate": "2023-01-20"
+    },
+    {
+      "id": 22,
+      "name": "Varun Patel",
+      "email": "varun.patel@example.com",
+      "age": 35,
+      "isActive": false,
+      "address": {
+        "street": "1919 Banyan Rd",
+        "city": "Delhi",
+        "zipCode": "110001"
+      },
+      "registeredDate": "2022-05-10"
+    },
+    {
+      "id": 23,
+      "name": "Zara Khan",
+      "email": "zara.khan@example.com",
+      "age": 24,
+      "isActive": true,
+      "address": {
+        "street": "2020 Lotus St",
+        "city": "Bengaluru",
+        "zipCode": "560001"
+      },
+      "registeredDate": "2024-03-01"
+    },
+    {
+      "id": 24,
+      "name": "Akash Singh",
+      "email": "akash.singh@example.com",
+      "age": 40,
+      "isActive": true,
+      "address": {
+        "street": "2121 Peacock Rd",
+        "city": "Chennai",
+        "zipCode": "600001"
+      },
+      "registeredDate": "2021-11-11"
+    },
+    {
+      "id": 25,
+      "name": "Bhavna Gupta",
+      "email": "bhavna.gupta@example.com",
+      "age": 30,
+      "isActive": false,
+      "address": {
+        "street": "2222 Mango Ln",
+        "city": "Hyderabad",
+        "zipCode": "500001"
+      },
+      "registeredDate": "2023-07-05"
+    },
+    {
+      "id": 26,
+      "name": "Chirag Mehta",
+      "email": "chirag.mehta@example.com",
+      "age": 50,
+      "isActive": true,
+      "address": {
+        "street": "2323 Spice St",
+        "city": "Kolkata",
+        "zipCode": "700001"
+      },
+      "registeredDate": "2020-09-01"
+    },
+    {
+      "id": 27,
+      "name": "Deepa Reddy",
+      "email": "deepa.reddy@example.com",
+      "age": 25,
+      "isActive": true,
+      "address": {
+        "street": "2424 Ganesha Ave",
+        "city": "Pune",
+        "zipCode": "411001"
+      },
+      "registeredDate": "2024-01-15"
+    },
+    {
+      "id": 28,
+      "name": "Esha Kumari",
+      "email": "esha.kumari@example.com",
+      "age": 33,
+      "isActive": false,
+      "address": {
+        "street": "2525 Temple Rd",
+        "city": "Ahmedabad",
+        "zipCode": "380001"
+      },
+      "registeredDate": "2022-03-20"
+    },
+    {
+      "id": 29,
+      "name": "Gaurav Joshi",
+      "email": "gaurav.joshi@example.com",
+      "age": 45,
+      "isActive": true,
+      "address": {
+        "street": "2626 Palace Way",
+        "city": "Jaipur",
+        "zipCode": "302001"
+      },
+      "registeredDate": "2021-06-08"
+    },
+    {
+      "id": 30,
+      "name": "Hina Shah",
+      "email": "hina.shah@example.com",
+      "age": 31,
+      "isActive": true,
+      "address": {
+        "street": "2727 Desert Blvd",
+        "city": "Lucknow",
+        "zipCode": "226001"
+      },
+      "registeredDate": "2023-04-10"
+    },
+    {
+      "id": 31,
+      "name": "Ishan Verma",
+      "email": "ishan.verma@example.com",
+      "age": 28,
+      "isActive": false,
+      "address": {
+        "street": "2828 Riverfront Rd",
+        "city": "Nagpur",
+        "zipCode": "440001"
+      },
+      "registeredDate": "2022-08-01"
+    },
+    {
+      "id": 32,
+      "name": "Jaya Singh",
+      "email": "jaya.singh@example.com",
+      "age": 38,
+      "isActive": true,
+      "address": {
+        "street": "2929 Green Valley",
+        "city": "Surat",
+        "zipCode": "395001"
+      },
+      "registeredDate": "2021-02-18"
+    },
+    {
+      "id": 33,
+      "name": "Kabir Das",
+      "email": "kabir.das@example.com",
+      "age": 26,
+      "isActive": true,
+      "address": {
+        "street": "3030 Ocean View",
+        "city": "Goa",
+        "zipCode": "403001"
+      },
+      "registeredDate": "2024-02-04"
+    },
+    {
+      "id": 34,
+      "name": "Lalita Devi",
+      "email": "lalita.devi@example.com",
+      "age": 42,
+      "isActive": true,
+      "address": {
+        "street": "3131 Spice Market",
+        "city": "Bhopal",
+        "zipCode": "462001"
+      },
+      "registeredDate": "2020-10-15"
+    },
+    {
+      "id": 35,
+      "name": "Manoj Kumar",
+      "email": "manoj.kumar@example.com",
+      "age": 34,
+      "isActive": false,
+      "address": {
+        "street": "3232 Lake View",
+        "city": "Chandigarh",
+        "zipCode": "160001"
+      },
+      "registeredDate": "2023-09-10"
+    },
+    {
+      "id": 36,
+      "name": "Nisha Roy",
+      "email": "nisha.roy@example.com",
+      "age": 49,
+      "isActive": true,
+      "address": {
+        "street": "3333 Mountain Path",
+        "city": "Dehradun",
+        "zipCode": "248001"
+      },
+      "registeredDate": "2019-11-01"
+    },
+    {
+      "id": 37,
+      "name": "Om Prakash",
+      "email": "om.prakash@example.com",
+      "age": 27,
+      "isActive": true,
+      "address": {
+        "street": "3434 Forest Edge",
+        "city": "Ranchi",
+        "zipCode": "834001"
+      },
+      "registeredDate": "2024-04-02"
+    },
+    {
+      "id": 38,
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "age": 36,
+      "isActive": false,
+      "address": {
+        "street": "3535 Sacred Grove",
+        "city": "Patna",
+        "zipCode": "800001"
+      },
+      "registeredDate": "2022-01-07"
+    },
+    {
+      "id": 39,
+      "name": "Rahul Gupta",
+      "email": "rahul.gupta@example.com",
+      "age": 43,
+      "isActive": true,
+      "address": {
+        "street": "3636 Sunstone Dr",
+        "city": "Guwahati",
+        "zipCode": "781001"
+      },
+      "registeredDate": "2021-04-18"
+    },
+    {
+      "id": 40,
+      "name": "Sana Khan",
+      "email": "sana.khan@example.com",
+      "age": 32,
+      "isActive": true,
+      "address": {
+        "street": "3737 Emerald Lake",
+        "city": "Thiruvananthapuram",
+        "zipCode": "695001"
+      },
+      "registeredDate": "2023-06-05"
+    },
+    {
+      "id": 41,
+      "name": "Tarun Arora",
+      "email": "tarun.arora@example.com",
+      "age": 28,
+      "isActive": true,
+      "address": {
+        "street": "3838 Crystal Blvd",
+        "city": "Bhubaneswar",
+        "zipCode": "751001"
+      },
+      "registeredDate": "2023-02-10"
+    },
+    {
+      "id": 42,
+      "name": "Usha Rani",
+      "email": "usha.rani@example.com",
+      "age": 35,
+      "isActive": false,
+      "address": {
+        "street": "3939 Golden Rd",
+        "city": "Indore",
+        "zipCode": "452001"
+      },
+      "registeredDate": "2022-06-25"
+    },
+    {
+      "id": 43,
+      "name": "Vinay Sharma",
+      "email": "vinay.sharma@example.com",
+      "age": 24,
+      "isActive": true,
+      "address": {
+        "street": "4040 Silver St",
+        "city": "Visakhapatnam",
+        "zipCode": "530001"
+      },
+      "registeredDate": "2024-05-11"
+    },
+    {
+      "id": 44,
+      "name": "Waseem Khan",
+      "email": "waseem.khan@example.com",
+      "age": 40,
+      "isActive": true,
+      "address": {
+        "street": "4141 Diamond Dr",
+        "city": "Coimbatore",
+        "zipCode": "641001"
+      },
+      "registeredDate": "2021-12-01"
+    },
+    {
+      "id": 45,
+      "name": "Xavier D'Souza",
+      "email": "xavier.dsouza@example.com",
+      "age": 30,
+      "isActive": false,
+      "address": {
+        "street": "4242 Pearl Ln",
+        "city": "Madurai",
+        "zipCode": "625001"
+      },
+      "registeredDate": "2023-08-15"
+    },
+    {
+      "id": 46,
+      "name": "Yashika Kapoor",
+      "email": "yashika.kapoor@example.com",
+      "age": 50,
+      "isActive": true,
+      "address": {
+        "street": "4343 Ruby St",
+        "city": "Nashik",
+        "zipCode": "422001"
+      },
+      "registeredDate": "2020-07-20"
+    },
+    {
+      "id": 47,
+      "name": "Zoya Rahman",
+      "email": "zoya.rahman@example.com",
+      "age": 25,
+      "isActive": true,
+      "address": {
+        "street": "4444 Sapphire Dr",
+        "city": "Mysuru",
+        "zipCode": "570001"
+      },
+      "registeredDate": "2024-06-01"
+    },
+    {
+      "id": 48,
+      "name": "Ananya Mitra",
+      "email": "ananya.mitra@example.com",
+      "age": 33,
+      "isActive": false,
+      "address": {
+        "street": "4545 Topaz Rd",
+        "city": "Varanasi",
+        "zipCode": "221001"
+      },
+      "registeredDate": "2022-02-12"
+    },
+    {
+      "id": 49,
+      "name": "Bharat Singh",
+      "email": "bharat.singh@example.com",
+      "age": 45,
+      "isActive": true,
+      "address": {
+        "street": "4646 Amethyst Ave",
+        "city": "Agra",
+        "zipCode": "282001"
+      },
+      "registeredDate": "2021-05-25"
+    },
+    {
+      "id": 50,
+      "name": "Chitra Devi",
+      "email": "chitra.devi@example.com",
+      "age": 31,
+      "isActive": true,
+      "address": {
+        "street": "4747 Garnet Ln",
+        "city": "Kanpur",
+        "zipCode": "208001"
+      },
+      "registeredDate": "2023-03-01"
+    }
+  ]
